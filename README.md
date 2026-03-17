@@ -1,4 +1,4 @@
-# 🚕 Project RideFare – Uber & Lyft Cab Prices | Análisis de Datos con Python
+# 🚕 Project RideFare – Uber & Lyft Cab Prices - Análisis de Datos con Python
 
 Proyecto de análisis de datos enfocado en comprender los factores que influyen en el precio de los viajes en plataformas de transporte como Uber y Lyft.  
 El análisis se realizó utilizando Python para explorar la estructura del dataset, evaluar la calidad de los datos y descubrir patrones relevantes relacionados con precios, distancia, horario y condiciones climáticas.
